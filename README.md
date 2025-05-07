@@ -2,7 +2,7 @@
 
 <!-- Front Matter -->
 
-JavaScript Repository of TheAlgorithms, which implements various algorithms and data structures in JavaScript.
+JavaScript Repository of TheAlgorithms, which implements various algorithms and data structures in JavaScript. I am pretty sure that it would be fun.
 
 <div align="center">
 
